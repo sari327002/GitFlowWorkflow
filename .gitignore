@@ -1,0 +1,4 @@
+# ignore whole settings
+settings/
+##ignore .log
+*.log
